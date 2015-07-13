@@ -1,5 +1,3 @@
-# homekit
-
-整理以下网站内容的前两章。
+# HomeKit 开发指南（中文版）
 
 <http://www.cocoachina.com/ios/20150324/11411.html>
